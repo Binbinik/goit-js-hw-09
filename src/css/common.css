@@ -18,8 +18,7 @@ img {
 }
 
 #datetime-picker,
-button[data-start],
-button[data-stop] {
+.starter {
   padding: 7px;
   font-size: 20px;
 }
